@@ -1,0 +1,16 @@
+{
+  "bg": {
+    "value": "#630BDB",
+    "type": "color"
+  },
+  "accent": {
+    "value": "#FFFFFF",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  }
+}
